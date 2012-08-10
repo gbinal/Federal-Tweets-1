@@ -11,7 +11,7 @@ or
 http://registry.usa.gov/accounts.xml?service_id=twitter
 
 
-Initial Code:
+Initial Code: 
 
 
 <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
